@@ -1,0 +1,2 @@
+CREATE TABLE headlines_(col0 BIGINT, col1 VARCHAR(500), col2 VARCHAR(500), col3 VARCHAR(500), col4 VARCHAR(255),partition_0 VARCHAR(255),periodico VARCHAR(255),year VARCHAR(255),month VARCHAR(255),day VARCHAR(255));
+

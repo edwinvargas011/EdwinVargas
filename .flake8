@@ -1,0 +1,6 @@
+[flake8]
+max-line-length = 120
+ignore = E501,W503, E266, E501, W503,F405,F821
+exclude = .git,__pycache__,env,.c9,aws,env,requirements.txt,README.md
+select = F401,F403,F405,F,T4,E203
+enable-extensions = G
